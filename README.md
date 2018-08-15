@@ -1,1 +1,1 @@
-# Nano-Degree
+# Boston Housing Project, please check the notebook attached. 
